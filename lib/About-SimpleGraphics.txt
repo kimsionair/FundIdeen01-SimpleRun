@@ -1,8 +1,0 @@
-Simple Graphics is a library to the simple manipualtions of simple graphical
-displays. Its usage has been chosen to avoid the multiple threading issues that
-are common in code that display and are generally embedded within the (machine-single)
-graphical engine.
-It can be found here:
-  http://horstmann.com/sjsu/graphics/
-
-

@@ -2,6 +2,7 @@ import javax.swing.*;
 
 public class Main {
 
+    // Hier ist ein Kommentar
     public static void main(String[] args) throws Throwable{
 
         System.out.println("Hier ist die Konsole. Willkommen!");

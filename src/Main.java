@@ -9,7 +9,7 @@ public class Main {
 
         System.out.println("... hier wird alles ausgegeben, was mit System.out oder System.err gegeben wird.");
 
-        JOptionPane.showMessageDialog(new JFrame(), "Hi there, this is a dialog.");
+        JOptionPane.showMessageDialog(new JFrame(), "Hallo there, this is a dialog.");
 
         System.out.println("Und wir machen weiter mit der Konsole.");
 
